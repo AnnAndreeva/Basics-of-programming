@@ -1,0 +1,7 @@
+C:\Users\ANNA\Desktop\Учёба\Основы программирования\1 курс\ЛР04_Доп\ЛР04_Доп\bin\Debug\ЛР04_Доп.exe.config
+C:\Users\ANNA\Desktop\Учёба\Основы программирования\1 курс\ЛР04_Доп\ЛР04_Доп\bin\Debug\ЛР04_Доп.exe
+C:\Users\ANNA\Desktop\Учёба\Основы программирования\1 курс\ЛР04_Доп\ЛР04_Доп\bin\Debug\ЛР04_Доп.pdb
+C:\Users\ANNA\Desktop\Учёба\Основы программирования\1 курс\ЛР04_Доп\ЛР04_Доп\obj\Debug\ЛР04_Доп.csprojAssemblyReference.cache
+C:\Users\ANNA\Desktop\Учёба\Основы программирования\1 курс\ЛР04_Доп\ЛР04_Доп\obj\Debug\ЛР04_Доп.csproj.CoreCompileInputs.cache
+C:\Users\ANNA\Desktop\Учёба\Основы программирования\1 курс\ЛР04_Доп\ЛР04_Доп\obj\Debug\ЛР04_Доп.exe
+C:\Users\ANNA\Desktop\Учёба\Основы программирования\1 курс\ЛР04_Доп\ЛР04_Доп\obj\Debug\ЛР04_Доп.pdb

@@ -1,0 +1,7 @@
+C:\Users\Professional\Desktop\Учёба\Основы программирования\2 семестр\ЛР07\ЛР07\bin\Debug\ЛР07.exe.config
+C:\Users\Professional\Desktop\Учёба\Основы программирования\2 семестр\ЛР07\ЛР07\bin\Debug\ЛР07.exe
+C:\Users\Professional\Desktop\Учёба\Основы программирования\2 семестр\ЛР07\ЛР07\bin\Debug\ЛР07.pdb
+C:\Users\Professional\Desktop\Учёба\Основы программирования\2 семестр\ЛР07\ЛР07\obj\Debug\ЛР07.csprojAssemblyReference.cache
+C:\Users\Professional\Desktop\Учёба\Основы программирования\2 семестр\ЛР07\ЛР07\obj\Debug\ЛР07.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\Учёба\Основы программирования\2 семестр\ЛР07\ЛР07\obj\Debug\ЛР07.exe
+C:\Users\Professional\Desktop\Учёба\Основы программирования\2 семестр\ЛР07\ЛР07\obj\Debug\ЛР07.pdb

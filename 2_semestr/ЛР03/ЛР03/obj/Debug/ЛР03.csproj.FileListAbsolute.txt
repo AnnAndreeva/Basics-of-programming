@@ -1,0 +1,14 @@
+C:\Users\ANNA\Desktop\Учёба\Основы программирования\2 семестр\ЛР03\ЛР03\bin\Debug\ЛР03.exe.config
+C:\Users\ANNA\Desktop\Учёба\Основы программирования\2 семестр\ЛР03\ЛР03\bin\Debug\ЛР03.exe
+C:\Users\ANNA\Desktop\Учёба\Основы программирования\2 семестр\ЛР03\ЛР03\bin\Debug\ЛР03.pdb
+C:\Users\ANNA\Desktop\Учёба\Основы программирования\2 семестр\ЛР03\ЛР03\obj\Debug\ЛР03.csprojAssemblyReference.cache
+C:\Users\ANNA\Desktop\Учёба\Основы программирования\2 семестр\ЛР03\ЛР03\obj\Debug\ЛР03.csproj.CoreCompileInputs.cache
+C:\Users\ANNA\Desktop\Учёба\Основы программирования\2 семестр\ЛР03\ЛР03\obj\Debug\ЛР03.exe
+C:\Users\ANNA\Desktop\Учёба\Основы программирования\2 семестр\ЛР03\ЛР03\obj\Debug\ЛР03.pdb
+C:\Users\Professional\Desktop\Учёба\Основы программирования\2 семестр\ЛР03\ЛР03\bin\Debug\ЛР03.exe.config
+C:\Users\Professional\Desktop\Учёба\Основы программирования\2 семестр\ЛР03\ЛР03\bin\Debug\ЛР03.exe
+C:\Users\Professional\Desktop\Учёба\Основы программирования\2 семестр\ЛР03\ЛР03\bin\Debug\ЛР03.pdb
+C:\Users\Professional\Desktop\Учёба\Основы программирования\2 семестр\ЛР03\ЛР03\obj\Debug\ЛР03.csprojAssemblyReference.cache
+C:\Users\Professional\Desktop\Учёба\Основы программирования\2 семестр\ЛР03\ЛР03\obj\Debug\ЛР03.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\Учёба\Основы программирования\2 семестр\ЛР03\ЛР03\obj\Debug\ЛР03.exe
+C:\Users\Professional\Desktop\Учёба\Основы программирования\2 семестр\ЛР03\ЛР03\obj\Debug\ЛР03.pdb

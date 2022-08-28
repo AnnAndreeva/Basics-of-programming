@@ -1,0 +1,14 @@
+C:\Users\ANNA\source\repos\LR_1_extra\LR_1_extra\bin\Debug\LR_1_extra.exe.config
+C:\Users\ANNA\source\repos\LR_1_extra\LR_1_extra\bin\Debug\LR_1_extra.exe
+C:\Users\ANNA\source\repos\LR_1_extra\LR_1_extra\bin\Debug\LR_1_extra.pdb
+C:\Users\ANNA\source\repos\LR_1_extra\LR_1_extra\obj\Debug\LR_1_extra.csprojAssemblyReference.cache
+C:\Users\ANNA\source\repos\LR_1_extra\LR_1_extra\obj\Debug\LR_1_extra.csproj.CoreCompileInputs.cache
+C:\Users\ANNA\source\repos\LR_1_extra\LR_1_extra\obj\Debug\LR_1_extra.exe
+C:\Users\ANNA\source\repos\LR_1_extra\LR_1_extra\obj\Debug\LR_1_extra.pdb
+C:\Users\ANNA\Desktop\Учёба\Основы программирования\1 курс\LR_1_extra\LR_1_extra\bin\Debug\LR_1_extra.exe.config
+C:\Users\ANNA\Desktop\Учёба\Основы программирования\1 курс\LR_1_extra\LR_1_extra\bin\Debug\LR_1_extra.exe
+C:\Users\ANNA\Desktop\Учёба\Основы программирования\1 курс\LR_1_extra\LR_1_extra\bin\Debug\LR_1_extra.pdb
+C:\Users\ANNA\Desktop\Учёба\Основы программирования\1 курс\LR_1_extra\LR_1_extra\obj\Debug\LR_1_extra.csprojAssemblyReference.cache
+C:\Users\ANNA\Desktop\Учёба\Основы программирования\1 курс\LR_1_extra\LR_1_extra\obj\Debug\LR_1_extra.csproj.CoreCompileInputs.cache
+C:\Users\ANNA\Desktop\Учёба\Основы программирования\1 курс\LR_1_extra\LR_1_extra\obj\Debug\LR_1_extra.exe
+C:\Users\ANNA\Desktop\Учёба\Основы программирования\1 курс\LR_1_extra\LR_1_extra\obj\Debug\LR_1_extra.pdb

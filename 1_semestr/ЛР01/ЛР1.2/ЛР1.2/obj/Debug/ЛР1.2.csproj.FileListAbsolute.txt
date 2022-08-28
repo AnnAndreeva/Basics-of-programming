@@ -1,0 +1,7 @@
+C:\Users\ANNA\Desktop\Учёба\Основы программирования\ЛР1.2\ЛР1.2\bin\Debug\ЛР1.2.exe.config
+C:\Users\ANNA\Desktop\Учёба\Основы программирования\1 курс\ЛР1.2\ЛР1.2\bin\Debug\ЛР1.2.exe.config
+C:\Users\ANNA\Desktop\Учёба\Основы программирования\1 курс\ЛР1.2\ЛР1.2\bin\Debug\ЛР1.2.exe
+C:\Users\ANNA\Desktop\Учёба\Основы программирования\1 курс\ЛР1.2\ЛР1.2\bin\Debug\ЛР1.2.pdb
+C:\Users\ANNA\Desktop\Учёба\Основы программирования\1 курс\ЛР1.2\ЛР1.2\obj\Debug\ЛР1.2.csprojResolveAssemblyReference.cache
+C:\Users\ANNA\Desktop\Учёба\Основы программирования\1 курс\ЛР1.2\ЛР1.2\obj\Debug\ЛР1.2.exe
+C:\Users\ANNA\Desktop\Учёба\Основы программирования\1 курс\ЛР1.2\ЛР1.2\obj\Debug\ЛР1.2.pdb

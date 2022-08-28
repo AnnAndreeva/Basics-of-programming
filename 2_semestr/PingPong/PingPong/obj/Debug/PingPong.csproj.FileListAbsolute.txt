@@ -1,0 +1,11 @@
+C:\Users\Professional\Desktop\Учёба\Основы программирования\2 семестр\PingPong\PingPong\bin\Debug\PingPong.exe.config
+C:\Users\Professional\Desktop\Учёба\Основы программирования\2 семестр\PingPong\PingPong\bin\Debug\PingPong.exe
+C:\Users\Professional\Desktop\Учёба\Основы программирования\2 семестр\PingPong\PingPong\bin\Debug\PingPong.pdb
+C:\Users\Professional\Desktop\Учёба\Основы программирования\2 семестр\PingPong\PingPong\obj\Debug\PingPong.csprojAssemblyReference.cache
+C:\Users\Professional\Desktop\Учёба\Основы программирования\2 семестр\PingPong\PingPong\obj\Debug\PingPong.Form1.resources
+C:\Users\Professional\Desktop\Учёба\Основы программирования\2 семестр\PingPong\PingPong\obj\Debug\PingPong.Game.resources
+C:\Users\Professional\Desktop\Учёба\Основы программирования\2 семестр\PingPong\PingPong\obj\Debug\PingPong.Properties.Resources.resources
+C:\Users\Professional\Desktop\Учёба\Основы программирования\2 семестр\PingPong\PingPong\obj\Debug\PingPong.csproj.GenerateResource.cache
+C:\Users\Professional\Desktop\Учёба\Основы программирования\2 семестр\PingPong\PingPong\obj\Debug\PingPong.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\Учёба\Основы программирования\2 семестр\PingPong\PingPong\obj\Debug\PingPong.exe
+C:\Users\Professional\Desktop\Учёба\Основы программирования\2 семестр\PingPong\PingPong\obj\Debug\PingPong.pdb

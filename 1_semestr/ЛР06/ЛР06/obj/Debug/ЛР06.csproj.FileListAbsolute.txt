@@ -1,0 +1,7 @@
+C:\Users\ANNA\Desktop\Учёба\Основы программирования\1 курс\ЛР06\ЛР06\bin\Debug\ЛР06.exe.config
+C:\Users\ANNA\Desktop\Учёба\Основы программирования\1 курс\ЛР06\ЛР06\bin\Debug\ЛР06.exe
+C:\Users\ANNA\Desktop\Учёба\Основы программирования\1 курс\ЛР06\ЛР06\bin\Debug\ЛР06.pdb
+C:\Users\ANNA\Desktop\Учёба\Основы программирования\1 курс\ЛР06\ЛР06\obj\Debug\ЛР06.csprojAssemblyReference.cache
+C:\Users\ANNA\Desktop\Учёба\Основы программирования\1 курс\ЛР06\ЛР06\obj\Debug\ЛР06.csproj.CoreCompileInputs.cache
+C:\Users\ANNA\Desktop\Учёба\Основы программирования\1 курс\ЛР06\ЛР06\obj\Debug\ЛР06.exe
+C:\Users\ANNA\Desktop\Учёба\Основы программирования\1 курс\ЛР06\ЛР06\obj\Debug\ЛР06.pdb

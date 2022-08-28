@@ -1,0 +1,13 @@
+C:\Users\Professional\Desktop\Учёба\Основы программирования\2 семестр\ЛР08\ЛР08\bin\Debug\ЛР08.exe.config
+C:\Users\Professional\Desktop\Учёба\Основы программирования\2 семестр\ЛР08\ЛР08\bin\Debug\ЛР08.exe
+C:\Users\Professional\Desktop\Учёба\Основы программирования\2 семестр\ЛР08\ЛР08\bin\Debug\ЛР08.pdb
+C:\Users\Professional\Desktop\Учёба\Основы программирования\2 семестр\ЛР08\ЛР08\obj\Debug\ЛР08.csprojAssemblyReference.cache
+C:\Users\Professional\Desktop\Учёба\Основы программирования\2 семестр\ЛР08\ЛР08\obj\Debug\ЛР08.Form1.resources
+C:\Users\Professional\Desktop\Учёба\Основы программирования\2 семестр\ЛР08\ЛР08\obj\Debug\ЛР08.Properties.Resources.resources
+C:\Users\Professional\Desktop\Учёба\Основы программирования\2 семестр\ЛР08\ЛР08\obj\Debug\ЛР08.csproj.GenerateResource.cache
+C:\Users\Professional\Desktop\Учёба\Основы программирования\2 семестр\ЛР08\ЛР08\obj\Debug\ЛР08.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\Учёба\Основы программирования\2 семестр\ЛР08\ЛР08\obj\Debug\ЛР08.exe
+C:\Users\Professional\Desktop\Учёба\Основы программирования\2 семестр\ЛР08\ЛР08\obj\Debug\ЛР08.pdb
+C:\Users\Professional\Desktop\Учёба\Основы программирования\2 семестр\ЛР08\ЛР08\obj\Debug\ЛР08.Task1.resources
+C:\Users\Professional\Desktop\Учёба\Основы программирования\2 семестр\ЛР08\ЛР08\obj\Debug\ЛР08.Task2.resources
+C:\Users\Professional\Desktop\Учёба\Основы программирования\2 семестр\ЛР08\ЛР08\obj\Debug\ЛР08.Task3.resources

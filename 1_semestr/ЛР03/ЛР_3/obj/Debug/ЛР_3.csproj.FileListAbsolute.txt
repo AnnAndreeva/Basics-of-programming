@@ -1,0 +1,7 @@
+C:\Users\ANNA\source\repos\ЛР_3\ЛР_3\bin\Debug\ЛР_3.exe.config
+C:\Users\ANNA\source\repos\ЛР_3\ЛР_3\bin\Debug\ЛР_3.exe
+C:\Users\ANNA\source\repos\ЛР_3\ЛР_3\bin\Debug\ЛР_3.pdb
+C:\Users\ANNA\source\repos\ЛР_3\ЛР_3\obj\Debug\ЛР_3.csprojAssemblyReference.cache
+C:\Users\ANNA\source\repos\ЛР_3\ЛР_3\obj\Debug\ЛР_3.csproj.CoreCompileInputs.cache
+C:\Users\ANNA\source\repos\ЛР_3\ЛР_3\obj\Debug\ЛР_3.exe
+C:\Users\ANNA\source\repos\ЛР_3\ЛР_3\obj\Debug\ЛР_3.pdb

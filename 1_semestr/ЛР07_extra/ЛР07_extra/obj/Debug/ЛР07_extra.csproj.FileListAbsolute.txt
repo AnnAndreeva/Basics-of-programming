@@ -1,7 +1,0 @@
-C:\Users\ANNA\Desktop\Учёба\Основы программирования\1 курс\ЛР07_extra\ЛР07_extra\bin\Debug\ЛР07_extra.exe.config
-C:\Users\ANNA\Desktop\Учёба\Основы программирования\1 курс\ЛР07_extra\ЛР07_extra\bin\Debug\ЛР07_extra.exe
-C:\Users\ANNA\Desktop\Учёба\Основы программирования\1 курс\ЛР07_extra\ЛР07_extra\bin\Debug\ЛР07_extra.pdb
-C:\Users\ANNA\Desktop\Учёба\Основы программирования\1 курс\ЛР07_extra\ЛР07_extra\obj\Debug\ЛР07_extra.csprojAssemblyReference.cache
-C:\Users\ANNA\Desktop\Учёба\Основы программирования\1 курс\ЛР07_extra\ЛР07_extra\obj\Debug\ЛР07_extra.csproj.CoreCompileInputs.cache
-C:\Users\ANNA\Desktop\Учёба\Основы программирования\1 курс\ЛР07_extra\ЛР07_extra\obj\Debug\ЛР07_extra.exe
-C:\Users\ANNA\Desktop\Учёба\Основы программирования\1 курс\ЛР07_extra\ЛР07_extra\obj\Debug\ЛР07_extra.pdb
